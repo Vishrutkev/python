@@ -6,6 +6,7 @@
 # Section B
 ###############
 
+
 # you'll need the random module
 import random
 

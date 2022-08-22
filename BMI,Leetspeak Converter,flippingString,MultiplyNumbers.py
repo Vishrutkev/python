@@ -42,7 +42,7 @@ print(add)
 
 
 
-print("\n----Task 4---- Multiple numbers")
+print("\n----Task 4---- MultiplY numbers")
 ## Write Task4 code here
 
 number =input("input numbers to multiply: ")
